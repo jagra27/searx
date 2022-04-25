@@ -10,7 +10,7 @@ Implementation will also be covered in the Presentation.
 3. Here are the commands (Linux terminal) you will be using, keep in mind that these are updated for Python 3. On many websites, the commands listed only work for Python 2.7 which is not in service any more.
    * sudo apt update
    * sudo apt-get upgrade
-   *  sudo apt-get install git build-essential libxslt-dev python-dev python3-virtualenv uwsgi uwsgi-plugin-python3 python-babel zlib1g-dev libffi-dev libssl-dev shellcheck
+   *  sudo apt-get install git build-essential libxslt-dev python-dev python3-virtualenv uwsgi uwsgi-plugin-python3 python-babel zlib1g-dev libffi-dev libssl-dev shellcheck nginx
       * Installs all packages needed for uWSGI  
    *  sudo -i 
       * If you are not already elevated, this command will do so
