@@ -36,6 +36,10 @@ Implementation will also be covered in the Presentation.
 Running a private,local instance of SearX is remarkably difficult if you have a Macbook Apple M1 Chip and do not have the resources to download a Linux VM or Server. There are very few resources online available to help.
 Having a full understanding of how SearX is able to use other engines whilst still maintaining privacy was difficult, however, with the help of readings and videos, I was able to do so.
 
+## Presentation
+https://www.canva.com/design/DAE-dr350WM/Vf2wdM4vfVYbg-MktYSyNg/view?utm_content=DAE-dr350WM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+![SENIOR PROJECT](https://user-images.githubusercontent.com/43456179/165377066-7425dc24-773b-430e-9406-ad2439560054.png)
+
 ### References
 
 David Sánchez, Jordi Castellà-Roca, Alexandre Viejo,Knowledge-based scheme to create privacy-preserving but semantically-related queries for web search engines,
